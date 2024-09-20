@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Photography Portfolio`,
-      href: `photo.realyujie.wang`,
+      name: `My Photography Portfolio`,
+      href: `https://photo.realyujie.wang`,
     },
     {
       name: `Sourcecode`,
