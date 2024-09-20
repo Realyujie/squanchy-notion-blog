@@ -12,7 +12,11 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `squanchy-notion-blog`,
+      name: `Photography Portfolio`,
+      href: `photo.realyujie.wang`,
+    },
+    {
+      name: `Sourcecode`,
       href: "https://github.com/Realyujie/squanchy-notion-blog",
     },
   ],
@@ -54,7 +58,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: true,
+    enable: false,
     config: {
       repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "",
       "issue-term": "og:title",
